@@ -1,4 +1,4 @@
-### Olá!!! Eu sou o Michael Douglas SS(MD), cursando Analise e Desenvolvimento de Sistemas
+### Olá!!! Eu sou o Michael Douglas SS(MD), estudante de programação
 - 🔭 Hoje estou em porcesso de transição de carreira
 - 🌱 Estudando as Stacks Java-Script/Type-Script e Java
 - 😄 Pronomes: ele/dele
