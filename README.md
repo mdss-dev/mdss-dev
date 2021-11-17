@@ -1,6 +1,6 @@
 ### Olá!!! Eu sou o Michael Douglas SS(MD), estudante de programação
 - 🔭 Hoje estou em porcesso de transição de carreira
-- 🌱 Estudando as Stacks Java-Script/Type-Script e Java
+- 🌱 Estudando as Stacks JavaScript/TypeScript e Java
 - 😄 Pronomes: ele/dele
 
 <div align="center">
