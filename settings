@@ -9,7 +9,6 @@
 */
 {
   // Gerais
-  "workbench.iconTheme": "vscode-icons",
   "workbench.colorTheme": "Dracula",
   "workbench.startupEditor": "newUntitledFile",
   "extensions.ignoreRecommendations": true,
@@ -18,26 +17,12 @@
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
 
-  // Fonte (https://github.com/tonsky/FiraCode)
-  "editor.fontSize": 14,
-  "editor.lineHeight": 20,
-  "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', 'Droid Sans Fallback'",
-  "editor.fontLigatures": true,
-
-  // Aumenta a fonte do terminal
-  "terminal.integrated.fontSize": 14,
-
-  // Adiciona as marcações verticais para quebra de linha
-  "editor.rulers": [80],
-
   // Exibe uma identificação visual na linha em que o cursor estiver
   "editor.renderLineHighlight": "gutter",
 
   // Integrar o Prettier com o ESLint
   "prettier.eslintIntegration": true,
 
-  // Habilita o breadcrumbs
-  "breadcrumbs.enabled": true,
 
   // Adiciona o emmet em arquivos Javascript
   "emmet.syntaxProfiles": {
